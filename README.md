@@ -8,7 +8,7 @@ I'm a passionate AI and ML engineer with experience in MATLAB, Python, SQL, Spre
 
 - 🌱 Currently learning: Data Science and Backend Engineering at ALX
 - 🔭 Working on: Smart Alarm, MYSECare(Smart bracelet for Asthma patients)
-- 🌍 Languages: Python, SQL, English
+- 🌍 Languages: Python, SQL, C, C++, English
 - 📫 How to reach me: mysamuel03@gmail.com
 - ⚡ Fun fact: I love football, but I don't know how to play.
 
@@ -18,6 +18,8 @@ I'm a passionate AI and ML engineer with experience in MATLAB, Python, SQL, Spre
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 *Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
@@ -37,9 +39,9 @@ I'm a passionate AI and ML engineer with experience in MATLAB, Python, SQL, Spre
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_lin
+- **Personal Website / Blog** (My Website or Blog)
+- **LinkedIn** ([My LinkedIn Profile)](www.linkedin.com/in/akotosamuel))
+- **X(Twitter)** ([My X(Twitter) Profile](https://x.com/SAkoto23?t=a-Lwf-E1VfBoIKXzW6QIZg&s=09))
 
 
 # itssamakt
